@@ -1,7 +1,5 @@
 # Semaphores
-Food Passing Synchronization
-
-This C++ program highlights the uses of Semaphores and thread synchonization.
+Food Passing Problem, highlights the synchronization of threads using Semaphores.
 
 A Server, Diners, and a Busser are all synchonized to minimize busy-wait and make more efficient use of CPU cycles while making sure deadlock does not occur.
 
